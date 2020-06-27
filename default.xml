@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="usb-quartermaster" fetch="ssh://git@github.com/usb-quartermaster"/>
+
+    <default revision="master" remote="usb-quartermaster"/>
+
+    <project name="USB_Quartermaster_server" path="server"/>
+    <project name="USB_Quartermaster_client " path="client"/>
+    <project name="USB_Quartermaster_common" path="plugins/common"/>
+    <project name="USB_Quartermaster_SSH" path="plugins/SSH"/>
+    <project name="USB_Quartermaster_VirtualHere" path="plugins/VirtualHere"/>
+    <project name="USB_Quartermaster_Usbip" path="plugins/VirtualHere"/>
+</manifest>
