@@ -10,5 +10,4 @@
     <project name="USB-quartermaster/USB_Quartermaster_SSH.git" path="plugins/SSH"/>
     <project name="USB-quartermaster/USB_Quartermaster_VirtualHere.git" path="plugins/VirtualHere"/>
     <project name="USB-quartermaster/USB_Quartermaster_Usbip.git" path="plugins/Usbip"/>
->>>>>>> Fix repo path
 </manifest>
