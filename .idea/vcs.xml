@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.repo/manifests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.repo/repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/manifest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugins/SSH" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugins/TeamCity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugins/Usbip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugins/VirtualHere" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugins/common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/server" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$/server/quartermaster_server" />
+        <option name="settingsModule" value="quartermaster/settings/local_development_settings.py" />
+        <option name="manageScript" value="manage.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+        <option name="doNotUseTestRunner" value="true" />
+        <option name="trackFilePattern" value="" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/server/quartermaster_server" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/common/USB_Quartermaster_common" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/SSH/USB_Quartermaster_SSH" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Usbip/USB_Quartermaster_Usbip" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/VirtualHere/USB_Quartermaster_VirtualHere" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/common" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/SSH" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/Usbip" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/VirtualHere" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/client" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (server-29nGTNkn)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+  </component>
+</module>
