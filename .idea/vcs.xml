@@ -7,7 +7,7 @@
     <mapping directory="$PROJECT_DIR$/client" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/manifest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/plugins/SSH" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/plugins/TeamCity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/plugins/Teamcity" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/plugins/Usbip" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/plugins/VirtualHere" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/plugins/common" vcs="Git" />

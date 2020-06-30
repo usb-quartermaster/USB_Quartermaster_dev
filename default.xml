@@ -15,3 +15,4 @@
     <project name="USB-quartermaster/USB_Quartermaster_Usbip.git" path="plugins/Usbip"/>
     <project name="USB-quartermaster/USB_Quartermaster_Teamcity.git" path="plugins/Teamcity"/>
 </manifest>
+
