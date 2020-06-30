@@ -7,6 +7,7 @@
     <project name="USB-quartermaster/USB_Quartermaster_dev.git" path="."/>
 
     <project name="USB-quartermaster/USB_Quartermaster_server.git" path="server"/>
+    <project name="USB-quartermaster/USB_Quartermaster_UI.git" path="plugins/UI"/>
     <project name="USB-quartermaster/USB_Quartermaster_client.git" path="client"/>
     <project name="USB-quartermaster/USB_Quartermaster_common.git" path="plugins/common"/>
     <project name="USB-quartermaster/USB_Quartermaster_SSH.git" path="plugins/SSH"/>

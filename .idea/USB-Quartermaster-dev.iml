@@ -24,6 +24,8 @@
       <sourceFolder url="file://$MODULE_DIR$/plugins/Usbip" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/plugins/VirtualHere" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/TeamCity/USB_Quartermaster_Teamcity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plugins/UI/ui" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (server-29nGTNkn)" jdkType="Python SDK" />
